@@ -3,3 +3,15 @@
 
 # Ada Library Information
 *.ali
+
+# ignore folder
+bower_components/
+build/
+dist/
+documentation/
+plugins/
+
+# ignore file
+*.npmignore
+*.json
+.travis.yml
