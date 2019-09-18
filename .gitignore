@@ -15,3 +15,5 @@ plugins/
 *.npmignore
 *.json
 .travis.yml
+yarn.lock
+Gruntfile.js
